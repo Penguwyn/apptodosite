@@ -5,7 +5,7 @@ import "./index.css";
 	localStorage.setItem('okState', 0);
 	localStorage.setItem('textState', "ZeroState1");
 	localStorage.setItem('tnumber', 0);
-	let thisnumb = 1;
+	let thisnumb = 1; //TESTBRANCH TESTA1 HERE!!!
 	
   
 	const startdataArray = [
